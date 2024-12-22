@@ -1,0 +1,54 @@
+{
+    "test_services": [
+        {
+            "step_id": 1,
+            "timeout": 5,
+            "interval": 1
+        },
+        {
+            "step_id": 2,
+            "timeout": 5,
+            "interval": 0
+        },
+        {
+            "step_id": 100, 
+            "timeout": 6,
+            "interval": 0.5
+        },
+        {
+            "step_id": 4,  
+            "timeout": 8,
+            "interval": 0.2
+        },
+        {
+            "step_id": 5,
+            "timeout": 11,
+            "interval": 0
+        },
+        {
+            "step_id": 6,
+            "timeout": 8,
+            "interval": 0
+        },
+        {
+            "step_id": 7,
+            "timeout": 9,  
+            "interval": 1
+        },
+        {
+            "step_id": 8,
+            "timeout": 8,
+            "interval": 1
+        },
+        {
+            "step_id": 9,
+            "timeout": 2,
+            "interval": 2
+        },
+        {
+            "step_id": 10,
+            "timeout": 0.01,
+            "interval": 2
+        }
+    ]
+}
